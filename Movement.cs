@@ -7,6 +7,8 @@ public class Movement : MonoBehaviour
     [SerializeField] float rocketTrust = 1f;
     [SerializeField] float rotationSpeed = 1f;
     [SerializeField] AudioClip mainEngine;
+    
+    //teste
 
     Rigidbody rB;
     AudioSource aS;
